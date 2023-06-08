@@ -20,6 +20,6 @@ print('\n')
 print('Olá {}, sua idade é {}.'.format(nome, str((ano_atual-nascimento))))
 print('\n')
 
-# forma 3
+# forma 3 (a partir do python 3.6 apenas)
 print(f'Olá {nome}, sua idade é {idade}.')
 print('\n')
