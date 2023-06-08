@@ -8,3 +8,6 @@ print(f'divisao.: {a/b}')
 print(f'divisao inteira.: {a//b}')
 print(f'módulo.: {a%b}')
 print(f'exponenciacao.: {a**b}')
+
+print(f'calculo.: {7*3**2%4}')
+print(63%4)

@@ -8,7 +8,10 @@ print(numeros)
 
 # fatiamento
 listaFatiada = numeros[2:5]
-print(listaFatiada)
+print(f'lista fatiada = {listaFatiada}')
+
+# percorre o array de trás para frente com fatiamento
+print(listaFatiada[::-1])
 
 # acessar elementos
 print(numeros[3])
@@ -62,3 +65,4 @@ print(f'numeros order asc = {numeros}')
 # ordena de forma desc uma lista
 numeros.reverse()
 print(f'numeros order desc = {numeros}')
+

@@ -9,3 +9,4 @@ def isNumeroMagico(num):
 numero_informado = int(input('Informe o seu número mágico.: '))
 
 isNumeroMagico(numero_informado)
+
