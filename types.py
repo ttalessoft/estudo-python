@@ -1,0 +1,8 @@
+print(type(1))
+print(type('john lee'))
+print(type("john doe"))
+print(type(True))
+print(type(1.1))
+print(type([]))
+print(type({}))
+print(type(()))
